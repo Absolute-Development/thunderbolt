@@ -1,3 +1,7 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
+
+
 # Thunderbolt
 
 **Thunderbolt is a multipurpose discord bot which aims to provide almost all features within one bot.**
@@ -5,6 +9,9 @@
 ## Prefix
 
 `tb! [configurable]`
+
+## Written in
+`discord.js`
 
 ## Commands
 
@@ -14,7 +21,7 @@ I am lazy to write it xD
 ```
 
 ## Features
-```
+
 - Moderation
 - Music
 - Memes
@@ -29,7 +36,7 @@ I am lazy to write it xD
 - Configurable
 - AFK
 - And Many More
-```
+
 
 ## Invite
 [Click Here](https://thunderbolt.netlify.com/invite) to invite the bot.
@@ -46,3 +53,6 @@ I am lazy to write it xD
 
 
 Have a nice time ;)
+
+
+[![Discord Bots](https://discordbots.org/api/widget/599106118106742785.svg)](https://discordbots.org/bot/599106118106742785)
