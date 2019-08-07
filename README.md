@@ -56,3 +56,4 @@ Have a nice time ;)
 
 
 [![Discord Bots](https://discordbots.org/api/widget/599106118106742785.svg)](https://discordbots.org/bot/599106118106742785)
+ [![Bots for Discord](https://botsfordiscord.com/api/bot/599106118106742785/widget)](https://botsfordiscord.com/bots/599106118106742785)
